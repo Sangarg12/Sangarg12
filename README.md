@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Sandeep Garg. 
 - 👀 I love connecting dots with data.
-- 🌱 I’m currently working as a Business Analyst in Amazon.
+- 🌱 I’ve 8 year of working experience in data anlaytics & business intelligence.
 
 <!---
 Sangarg12/Sangarg12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
