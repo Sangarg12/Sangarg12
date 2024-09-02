@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Sandeep Garg. 
-- 👀 I love connecting dots with data.
+- 👀 I love connecting dots to help the business to take data driven decision.
 - 🌱 I’ve 8 year of working experience in data anlaytics & business intelligence.
 
 <!---
